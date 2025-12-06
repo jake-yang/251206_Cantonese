@@ -1,0 +1,5 @@
+{
+  "name": "JyutDict - AI Cantonese Dictionary",
+  "description": "An intelligent Cantonese dictionary providing translations, Jyutping romanization, word-by-word breakdowns, and audio pronunciation using Gemini AI.",
+  "requestFramePermissions": []
+}
